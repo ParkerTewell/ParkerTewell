@@ -1,6 +1,7 @@
-Undergrad @ UMD majoring in CS on the data science track with a stat minor.  
-Currently working on NEMO & some other school projects.  
-Interning this summer @ Viasat.  
+Undergrad @ UMD studying CS (data science) & statistics
+Interning this summer @ Viasat. 
+Research assistant for NEMO.
+Linkedin: https://www.linkedin.com/in/parker-tewell/
 
 <!---
 ParkerTewell/ParkerTewell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
