@@ -1,5 +1,4 @@
 Undergrad @ UMD studying CS (data science) & statistics.  
-Interning @ Viasat & Research assistanting for NEMO.  
 Linkedin: https://www.linkedin.com/in/parker-tewell/
 
 <!---
