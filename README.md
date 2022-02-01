@@ -1,4 +1,4 @@
-Undergrad @ UMD studying CS (data science) & statistics.  
+Undergrad @ UMD studying CS & statistics.  
 Linkedin: https://www.linkedin.com/in/parker-tewell/
 
 <!---
