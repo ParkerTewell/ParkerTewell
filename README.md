@@ -1,4 +1,4 @@
-Undergrad @ UMD studying CS & statistics.  
+Software Engineer @ JP Morgan  
 Linkedin: https://www.linkedin.com/in/parker-tewell/
 
 <!---
