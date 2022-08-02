@@ -1,4 +1,4 @@
-Software Engineer
+Software Engineer\n
 Linkedin: https://www.linkedin.com/in/parker-tewell/
 
 <!---
