@@ -1,4 +1,4 @@
-Software Engineer @ JP Morgan  
+Software Engineer
 Linkedin: https://www.linkedin.com/in/parker-tewell/
 
 <!---
